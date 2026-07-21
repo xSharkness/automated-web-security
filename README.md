@@ -29,7 +29,7 @@
 
 | Синхронизация с NVD | Сканирование | Отчёт |
 |:---:|:---:|:---:|
-| ![Синхронизация](../imgs/синхронизация.png) | ![Сканирование](docs/screenshots/scan.png) | ![Отчёт](docs/screenshots/report.png) |
+| ![Синхронизация](/imgs/синхронизация.png) | ![Сканирование](docs/screenshots/scan.png) | ![Отчёт](docs/screenshots/report.png) |
 
 ---
 
